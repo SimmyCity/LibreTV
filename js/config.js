@@ -22,6 +22,10 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
+    qjbox: {
+        api: 'http://cdn.qiaoji8.com/tvbox.json',
+        name: '巧记Box',
+    },
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
